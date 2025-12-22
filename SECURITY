@@ -1,0 +1,57 @@
+# Security Policy
+Human Resilience Project (PRH)
+
+Version: v0.1  
+
+---
+
+## Purpose
+
+Security in PRH includes:
+- technical security
+- social safety
+- psychological integrity
+- governance resilience
+
+This file concerns repository-level risks.
+
+---
+
+## Reporting Vulnerabilities
+
+If you identify:
+- abusive behavior
+- coercive language patterns
+- attempts to centralize authority
+- threats (explicit or implicit)
+- documentation that enables harm
+
+Please report via GitHub or contact maintainers.
+
+---
+
+## What Not to Report Here
+
+- ideological disagreement
+- moral objections
+- theological critique
+
+Those belong in issues or discussions.
+
+---
+
+## Response Commitment
+
+All security-related reports will be:
+- acknowledged
+- reviewed
+- documented
+
+Silence is not an acceptable response.
+
+---
+
+## Final Clause
+
+Security failures are not shameful.
+Ignoring them is.
